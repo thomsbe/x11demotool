@@ -1,0 +1,10 @@
+# Hauptabhängigkeiten
+python-xlib>=0.33
+PyGObject>=3.44.0
+
+# Entwicklung
+pytest>=7.0
+black>=23.0
+isort>=5.0
+mypy>=1.0
+pylint>=3.0.0
